@@ -1,11 +1,10 @@
-#  Welcome to Pythonista
+# Welcome to Pythonista
 
-Thank you for downloading Pythonista! You now have everything you need to build and run Python scripts directly on your iPhone or iPad. 
+Thank you for downloading Pythonista! You now have everything you need to build and run Python scripts directly on your iPhone or iPad.
 
 To give you an idea of what you can do with the app, various sample scripts are included in the [Examples][examples] folder (just tap the link to open it). Feel free to use them as starting points for your own experiments. To share your creations, get help with coding problems, or just to meet fellow Pythonistas, please visit our [community forum][forum]
 
-
-#  Getting Started + Tips
+## Getting Started + Tips
 
 If you're new to Pythonista, here are some tips to help you get up and running:
 
@@ -33,10 +32,10 @@ If you're new to Pythonista, here are some tips to help you get up and running:
 
 * Swipe right on a file in the script library for more options, e.g. to open files in new tabs. Swipe left to delete files.
 
-*If you enjoy coding in Pythonista, please consider leaving a rating or [review in the App Store][review]. Thank you!* 
+*If you enjoy coding in Pythonista, please consider leaving a rating or [review in the App Store][review]. Thank you!*
 💚
 
-# What's New in 3.3
+## What's New in 3.3
 
 For full release notes, and to see what was added in previous releases, please refer to the "What's New in Pythonista" page in the documentation. You can also open the release notes from an empty tab.
 
@@ -66,13 +65,12 @@ For full release notes, and to see what was added in previous releases, please r
 
 * Various bugfixes for iOS 13 and new screen sizes.
 
-[overview.md]: pythonista3://Examples/Overview.md?action=open 
+[overview.md]: pythonista3://Examples/Overview.md?action=open
 [kb_examples]: pythonista3://Examples/Keyboard/?action=open
 [quiz]: pythonista3://Examples/Misc/Quiz.py?action=open
 [satellite]: pythonista3://Examples/Misc/Satellite%20Image.py?action=open
 
-
-# Feedback
+## Feedback
 
 I hope you enjoy coding in Pythonista. If you have any feedback, please send an email to <pythonista@omz-software.com>, or visit the [community forum][forum] to share code and get help with your programming questions. You can also find me on Twitter:[@olemoritz][twitter].
 

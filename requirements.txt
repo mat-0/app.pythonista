@@ -1,0 +1,16 @@
+requests
+yaml
+json
+datetime
+xml.etree.ElementTree
+pytest
+pathlib
+pillow
+feedparser
+requests
+pathlib
+datefinder
+yahoo_fin
+pandas
+requests_html
+markitdown
